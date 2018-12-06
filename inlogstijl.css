@@ -1,1 +1,31 @@
- 
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body	{
+	background-color: #4f4f4f;
+	color: #FFFFFF;
+	font-family: 'Roboto';
+}	
+
+h2 {
+	font-family: 'Roboto';
+	color: #fff;
+}
+
+#inlogbox {
+	background-color: #868585;
+	width: 20%;
+	margin: auto;
+	border: 3px solid #777777;
+	height: 25%;
+	padding: 2%;
+}
+input {
+	border: none;
+	background-color: #444444;
+	float: right;
+	color: white;
+}
+#knop {
+	float: left;
+	font-family: 'Roboto';
+	background-color: #1B5E20;
+}
