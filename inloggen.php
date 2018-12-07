@@ -9,7 +9,7 @@
 <form action="menu.php" method="post">
 Gebruikersnaam: <input type="text" name="usernaam"><br />
 Wachtwoord: <input type="password" name="wachtwoord"><br />
-<input type="submit" name="Inloggen" value="Inloggen">
+<input id="knop" type="submit" name="Inloggen" value="Inloggen">
 </form>
 </div>
 </body>

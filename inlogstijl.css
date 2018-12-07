@@ -12,20 +12,38 @@ h2 {
 
 #inlogbox {
 	background-color: #868585;
-	width: 20%;
+	width: 30%;
+	height: 20%;
 	margin: auto;
-	border: 3px solid #777777;
-	height: 25%;
+	margin-top: 15%;
 	padding: 2%;
 }
 input {
 	border: none;
 	background-color: #444444;
-	float: right;
 	color: white;
+	float: right;
 }
 #knop {
-	float: left;
 	font-family: 'Roboto';
-	background-color: #1B5E20;
+	background-color: #444444;
+	margin: auto;
+	float: none;
+}
+
+#knop:hover {
+	background-color: red;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: red;
+}
+
+a:active {
+	
 }
