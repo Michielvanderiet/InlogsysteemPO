@@ -4,7 +4,7 @@
 </head>
 <body>
 <!-- veel korter dan dit kan niet //-->
-<h2>inloggen</h2>
+<h2>Inloggen</h2>
 <form action="menu.php" method="post">
 Gebruikersnaam: <input type="text" name="usernaam"><br />
 Wachtwoord: <input type="password" name="wachtwoord"><br />
