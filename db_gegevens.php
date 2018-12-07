@@ -1,6 +1,8 @@
 <?php
 
 $db_server = "localhost";
-$db_users = "michielantonissen123";
+$db_user = "BoasAdmin";
+$db_password = "test";
+$db_name = "db_groepsopdracht";
 
 ?>
