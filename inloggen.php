@@ -6,9 +6,9 @@
 <!-- veel korter dan dit kan niet //-->
 <h2>inloggen</h2>
 <form action="menu.php" method="post">
-gebruikersnaam: <input type="text" name="usernaam"><br />
-wachtwoord: <input type="password" name="wachtwoord"><br />
-<input type="submit" name="inloggen" value="inloggen">
+Gebruikersnaam: <input type="text" name="usernaam"><br />
+Wachtwoord: <input type="password" name="wachtwoord"><br />
+<input type="submit" name="Inloggen" value="Inloggen">
 </form>
 </body>
 </html>
